@@ -4,8 +4,8 @@ I'm AJ! I'm a Frontend Engineer, who is passionate about learning, creating incr
 
 ## My Speciality
 
--:boom: React
--:boom: Redux
+[] :boom: React
+[] :boom: Redux
 
 ## Contact
 
