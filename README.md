@@ -1,6 +1,6 @@
 # Hello :wave::man_technologist:
 
-Hey there, I'm AJ! I'm a Frontend Engineer, who is passionate about growing my skills in React and using it to solve complex problems. I'm a recent graduate of Lambda School, and I hope to work for a solid company working on their Frontend.
+Hey there, I'm AJ! I'm a Frontend Engineer, who is passionate about growing my skills in React and using it to solve complex problems. I'm a currently a frontend software engineer at Opendorse.
 
 ## Technologies
 
